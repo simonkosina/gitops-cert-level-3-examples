@@ -1,4 +1,4 @@
-good commit
+good commit with label
 
 ---
 
